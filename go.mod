@@ -1,3 +1,3 @@
-module github.com/Ilya358/mymath
+module github.com/iikabaev/mymath
 
 go 1.21.1
